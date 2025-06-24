@@ -187,14 +187,6 @@ I turn bugs into "undocumented features" and complex problems into elegant solut
 <br />
 
 <div>
-  <img align="right" src="https://komarev.com/ghpvc/?username=idea399"/>
-  <a  align="left" href="https://github.com/idea399" title="Go to Source">
-    <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=idea399&theme=react&border=61dafb&hide_border=true" alt="idea399" />
-  </a>
-</div>
-<br />
-
-<div>
   <img align="left" alt="idea399's Github Stats" src="https://github-readme-stats.vercel.app/api?username=idea399&theme=github_dark&show_icons=true&hide_border=false" />
   <a align="left" href="https://github.com/idea399">
     <img width=325 alt="idea399" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idea399&hide=c%23,powershell,Mathematica,Ruby,%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
