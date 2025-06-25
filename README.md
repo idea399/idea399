@@ -52,8 +52,6 @@ I turn bugs into "undocumented features" and complex problems into elegant solut
 &nbsp;
 [<img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi&logoColor=F7DF1E" alt="FastAPI logo" title="FastAPI" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi&logoColor=F7DF1E" alt="FastAPI logo" title="FastAPI" height="25" />][tech_tools_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/C%23-282C34?logo=csharp&logoColor=F7DF1E" alt="C# logo" title="C#" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/.NET-282C34?logo=dotnet&logoColor=F7DF1E" alt=".NET logo" title=".NET" height="25" />][tech_tools_anchor]
@@ -171,8 +169,6 @@ I turn bugs into "undocumented features" and complex problems into elegant solut
 [<img src="https://img.shields.io/badge/Confluence-282C34?logo=confluence&logoColor=61DAFB" alt="Confluence logo" title="Confluence" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Storybook-282C34?logo=storybook&logoColor=61DAFB" alt="Storybook logo" title="Storybook" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=61DAFB" alt="Figma logo" title="Figma" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=61DAFB" alt="Figma logo" title="Figma" height="25" />][tech_tools_anchor]
 &nbsp;
